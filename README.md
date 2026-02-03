@@ -32,7 +32,7 @@ The design prioritizes:
 
 ##  UI / UX Design (Figma)
 🔗 Figma Prototype Link:  
-https://www.figma.com/make/EznC2a2UTOrqrNjUKXxHXd/Women-Safety-App-Design?t=FfcZYnwgBzgjAfoq-1
+https://www.figma.com/make/EznC2a2UTOrqrNjUKXxHXd/Women-Safety-App-Design?p=f&t=xEw4vp8qMeF9tonQ-0&fullscreen=1
 
 The UI is intentionally minimal and non-alarming, ensuring the application appears harmless even under observation.
 
